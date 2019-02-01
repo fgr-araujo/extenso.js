@@ -3,6 +3,7 @@
 > Escrever número por extenso.
 
 ![Status](https://travis-ci.org/theuves/extenso.js.svg?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FiFgR%2Fextenso.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FiFgR%2Fextenso.js?ref=badge_shield)
 
 ![NPM](https://nodei.co/npm/piii.png?mini=true)
 
@@ -42,3 +43,7 @@ extenso("1.5"); // "um real e cinquenta centavos"
 ## Licença
 
 MIT
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FiFgR%2Fextenso.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FiFgR%2Fextenso.js?ref=badge_large)
